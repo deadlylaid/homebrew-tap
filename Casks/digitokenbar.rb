@@ -7,7 +7,7 @@ cask "digitokenbar" do
   desc "Menu bar app that raises a Digimon from your AI coding token usage"
   homepage "https://github.com/deadlylaid/DigiTokenBar"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "DigiTokenBar.app"
 
