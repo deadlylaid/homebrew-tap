@@ -1,6 +1,6 @@
 cask "digitokenbar" do
-  version "0.1.0"
-  sha256 "e8609d032b3030fd638f5f2d4f55d3ba8f566097259594c5061987aefc9d8cd2"
+  version "0.1.1"
+  sha256 "e1f14ef84933feb0175acff95506091a17c77deb11b1e3af871d20960e0d8f96"
 
   url "https://github.com/deadlylaid/DigiTokenBar/releases/download/v#{version}/DigiTokenBar.zip"
   name "DigiTokenBar"
